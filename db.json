@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Henry",
+      "surname": "Douzant",
+      "email": "hd12@gmail.com"
+      "password": "test12"
+    }
+  ],
+  "bonplans": [
+    {
+      "id": 1,
+      "title": "Titre test bon deals",
+      "subtitle": "subtitre test bon deals",
+      "date": "01/01/2019"
+    }
+  ],
+  "actus": [
+    {
+      "id": 1,
+      "title": "Titre test actu",
+      "subtitle": "subtitre test actu",
+      "date": "01/01/2019"
+    }
+  ],
+  "offres": [
+    {
+      "id": 1,
+      "title": "offer"
+    }
+  ],
+  "achats": [
+    {
+      "id": 1,
+      "title": "Achat test",
+      "prix": 30,
+      "points": 300,
+      "date": "01/01/2019"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Titre test event",
+      "subtitle": "subtitre test event",
+      "date": "01/01/2019"
+    }
+  ]
+}
